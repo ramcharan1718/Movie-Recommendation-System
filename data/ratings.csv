@@ -1,0 +1,21 @@
+user_id,movie_id,rating,username,movie_title
+1.0,1.0,5,,
+1.0,2.0,4,,
+2.0,1.0,5,,
+2.0,3.0,5,,
+3.0,2.0,4,,
+3.0,4.0,5,,
+1.0,3.0,4,,
+2.0,1.0,3,,
+2.0,574475.0,3,,
+,,3,ram charan,Superman
+,,3,ram charan,Django Undisputed
+,,4,ram charan,HIM
+,,4,pramodh,Mantis
+,,2,pramodh,Marco
+,,5,pramodh,Superman
+,,4,pramodh,ante sundaraniki
+,,5,ram charan,ante sundaraniki
+,,4,pramodh,ante sundaraniki
+,,4,ram charan,coolie
+,,3,pramodh,coolie
